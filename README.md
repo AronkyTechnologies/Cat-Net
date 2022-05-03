@@ -18,4 +18,4 @@ obviously (even if it seems obvious) make sure you have also installed the other
 
 After making sure you have followed the instructions above (and that you have everything ready). Run the code as an administrator (to enjoy the vast commands that Cat-Net offers you)
 
-And now you just have to have fun with this beautiful tools!
+And now you just have to have fun with this beautiful tool!
