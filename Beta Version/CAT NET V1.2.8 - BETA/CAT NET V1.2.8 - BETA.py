@@ -19,10 +19,10 @@ def windows_administrator():
         pyuac.runAsAdmin()
 
 def macOS_administrator():
-    os.system("""osascript -e 'do shell script "sudo python3 "CAT NET V1.2.5 - BETA.py"" " with administrator privileges'""") #fix
+    os.system("""osascript -e 'do shell script "sudo python3 "CAT NET V1.2.8 - BETA.py"" " with administrator privileges'""") #fix
 
 def linux_administrator():
-    os.system("""osascript -e 'do shell script "sudo python3 "CAT NET V1.2.5 - BETA.py"" " with administrator privileges'""") #fix
+    os.system("""osascript -e 'do shell script "sudo python3 "CAT NET V1.2.8 - BETA.py"" " with administrator privileges'""") #fix
 
 sistema_operativo = sys.platform
 
