@@ -35,7 +35,7 @@ echo Cat-Net Installer
 
 git clone https://github.com/AronkyTechnologies/Cat-Net.git
 
-cd "Stable Version/CAT NET V2.1.0 - STABLE/Windows"
+cd "Stable Version/CAT NET V2.1.0 - STABLE/Win 32-64"
 
 pip install xmlrpc
 pip install colorama
