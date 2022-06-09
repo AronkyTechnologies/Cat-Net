@@ -20,6 +20,9 @@ pip install "pack name"
 Manual Installation:
 This last type of installation is reserved for those who want to produce (paying attention to the license) a modified version of cat-net, for those who want to add changes to the initial code (for personal use and not) or for those who want to test / debug the code. To download cat-net just download the entire repository by clicking [here](https://github.com/AronkyTechnologies/Cat-Net/releases) (obviously choosing the latest version or beta or stable). by doing so you will have all the resources to develop your cat-net version. To get the confidential cat-net development files you can use the codes located in the "Developer-Source" folder. While if you want to become an official cat-net developer you need to write an email to this email address [info@aronky.com](). For more information see the readme called "Developer-rm".
 
+## NEWS:❗️
+Currently the cat-net developers are working on the creation of cat-net executables without the need for installation (.exe for Windows and .exec / .app for Mac unfortunately the Linux version is still delayed. But soon it will be implemented too! ). Currently they are developing in addition to the executables also the version with graphical interface of cat-net which will be released through version 2.5.0 (in BETA version) together with new features and bug fixes!
+
 ## Conclusions:
 For any problem related to the code please contact us immediately so we can resolve it. Thank you very much "smanettore". Love from Aronky! 
  
