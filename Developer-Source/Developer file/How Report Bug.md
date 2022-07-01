@@ -6,6 +6,6 @@ To report glitches or software bugs you could write an email to this email addre
 - System configuration (Provide as much data as you can, we may have to ask you for additional data)
 - Steps to reproduce the error (Please be as accurate as possible)
 - (Optional) Lines concerned with the problem (or if it is a problem outside the code but inherent with Cat-Net insert photos / files etc that represent the problem)
-- (Optional) solution of the problem, if you want you can also do a pull in the main gith repository
+- (Optional) Solution of the problem, if you want you can also do a pull in the main gith repository
 
-We hope this mini guide was helpful to you, love from aronky team.
+We hope this mini guide was helpful to you, love from Aronky.
