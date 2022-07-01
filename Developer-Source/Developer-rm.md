@@ -4,7 +4,7 @@ Obviously please respect the rules and the Cat-Net [license](https://github.com/
 ## How to develop Cat-Net?
 Cat-Net as an open-source project, you can read-modify the code to your liking, but you can't do what you want with the distribution. Cat-Net developers can be divided into multiple groups:
 
-⚠️: Obviously, as the code license states, for each modified version of Cat-Net it is ***mandatory*** to mention the developers and the main repository.
+⚠️ Obviously, as the code license states, for each modified version of Cat-Net it is ***mandatory*** to mention the developers and the main repository.
 
 - **Personal Developers**:
 Personal developers are those developers who read or modify for personal / educational reasons, but who will never aim to distribute their modified version. Of course we allow any kind of modification, but even if this version of Cat-Net is personal, please mention both the [main repository](https://github.com/AronkyTechnologies/Cat-Net) and the developers!
