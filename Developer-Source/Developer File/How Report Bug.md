@@ -1,4 +1,4 @@
-# How report bug?
+# How to report bug?
 It may happen that during the execution of beta or stable versions you may encounter some problems. To improve more and more Cat-Net we advise you to report it to the central development team.
 # How?
 To report glitches or software bugs you could write an email to this email address support@aronky.com with these information:
