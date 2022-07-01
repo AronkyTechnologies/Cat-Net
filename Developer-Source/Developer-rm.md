@@ -1,6 +1,6 @@
 # Welcome Developer!
 This readme is dedicated to you! Here you will find all the rules / guides to develop Cat-Net!
-Obviously please respect the rules and the Cat-Net license. Having said that, let's see these rules!
+Obviously please respect the rules and the Cat-Net [license](https://github.com/AronkyTechnologies/Cat-Net/blob/main/LICENCE). Having said that, let's see these rules!
 ## How to develop Cat-Net?
 Cat-Net as an open-source project, you can read-modify the code to your liking, but you can't do what you want with the distribution. Cat-Net developers can be divided into multiple groups:
 
