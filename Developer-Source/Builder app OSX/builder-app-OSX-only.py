@@ -1,5 +1,3 @@
-#THIS IS A TEST FILE! 
-#THIS IS A INTERNAL FILE OF ARONKY, DONT DIVULGATE IT !
 from setuptools import setup
 
 #before running the code read the attached readme. and after use: "python3 builder-app-OSX-only.py" py2app
